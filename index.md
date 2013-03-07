@@ -1,5 +1,5 @@
 ---
-title: Love life!
+title: 欢迎来到大连理工大学非著名博士的博客
 layout: page
 ---
 
